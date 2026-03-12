@@ -1,0 +1,42 @@
+---
+title: "Title"
+subtitle: "Subtitle"
+author: Your name
+institute: Universitat de Lleida - Escola Politècnica Superior
+format: revealjs
+footer: "Footer"
+---
+
+## Slide
+
+This is a slide.
+
+## Slide 2 {.smaller}
+
+This is a small slide
+
+## Code
+
+```{.java}
+print("Code!")
+```
+
+## Columns
+::: {.columns}
+::: {.column}
+column 1
+:::
+::: {.column}
+column 2
+:::
+:::
+
+## Math
+
+This is $inline math$
+
+$$
+This is not inline math
+$$
+
+# Big slide!

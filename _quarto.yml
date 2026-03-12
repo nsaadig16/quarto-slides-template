@@ -1,0 +1,13 @@
+project:
+  type: website
+
+# website: 
+#  favicon: "/figures/favicon.ico"
+format:
+  revealjs:
+    mermaid: 
+      theme: default
+    theme: default
+    highlight-style: dracula
+    code-line-numbers: false
+    transition: fade
