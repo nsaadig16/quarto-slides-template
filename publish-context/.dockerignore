@@ -1,7 +1,3 @@
-.git
-README.md
-publish*
-
 /.quarto/
 **/*.quarto_ipynb
 _site
