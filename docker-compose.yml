@@ -3,7 +3,7 @@ services:
     build: .
     container_name: quarto-slides
     volumes:
-      - "./slides.qmd:/app/slides.qmd"
+      - ".:/app"
     ports:
       - "7866:7866"
     restart: unless-stopped
