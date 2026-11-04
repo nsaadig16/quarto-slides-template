@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "slides.html#slide",
+    "href": "slides.html#slide",
+    "title": "Title",
+    "section": "Slide",
+    "text": "Slide\nThis is a slide."
+  },
+  {
+    "objectID": "slides.html#slide-2",
+    "href": "slides.html#slide-2",
+    "title": "Title",
+    "section": "Slide 2",
+    "text": "Slide 2\nThis is a small slide"
+  },
+  {
+    "objectID": "slides.html#code",
+    "href": "slides.html#code",
+    "title": "Title",
+    "section": "Code",
+    "text": "Code\nprint(\"Code!\")"
+  },
+  {
+    "objectID": "slides.html#columns",
+    "href": "slides.html#columns",
+    "title": "Title",
+    "section": "Columns",
+    "text": "Columns\n\n\ncolumn 1\n\ncolumn 2"
+  },
+  {
+    "objectID": "slides.html#math",
+    "href": "slides.html#math",
+    "title": "Title",
+    "section": "Math",
+    "text": "Math\nThis is \\(inline math\\)\n\\[\nThis is not inline math\n\\]"
+  }
+]
