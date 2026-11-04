@@ -1,9 +1,0 @@
-services:
-  slides:
-    build: .
-    container_name: quarto-slides
-    volumes:
-      - ".:/app"
-    ports:
-      - "7866:7866"
-    restart: unless-stopped

@@ -1,13 +1,17 @@
 # Quarto slides template
 
-A Quarto RevealJS slides template that runs on a Docker container.
+A Quarto RevealJS slides template.
 
 ## Usage
 
 ### Preview
 
-You can use *Docker* to **preview** the slides by running the following command:
+You can run `make preview` to preview the slides on your browser.
 
-```bash
-docker compose up --build
-```
+### Render
+
+You can run `make render` to render the slides to an HTML file.
+
+### Publish
+
+You can publish the presentation to the Github Pages of your repository by running `make publish`.

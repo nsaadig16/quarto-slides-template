@@ -2,7 +2,7 @@
 title: "Title"
 subtitle: "Subtitle"
 author: Your name
-institute: Universitat de Lleida - Escola Politècnica Superior
+institute: Your university
 format: revealjs
 footer: "Footer"
 ---
@@ -17,7 +17,7 @@ This is a small slide
 
 ## Code
 
-```{.java}
+```{.python}
 print("Code!")
 ```
 
